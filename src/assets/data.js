@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Whats the national bird of india?",
+      option1: "Peacock",
+      option2: "Eagle",
+      option3: "Elephant",
+      option4: "Cat",
+      ans: 1,
+    },
+    {
+      question: "Which city is called silicon valley of India?",
+      option1: "Delhi",
+      option2: "Chennai",
+      option3: "Udupi",
+      option4: "Bengaluru",
+      ans: 4,
+    },
+    {
+      question: "Which is the largest state in India by area?",
+      option1: "Rajasthan",
+      option2: "Delhi",
+      option3: "Karnataka",
+      option4: "Kerala",
+      ans: 1,
+    },
+    {
+      question: "What is a capital of India?",
+      option1: "Udupi",
+      option2: "Chennai",
+      option3: "Delhi",
+      option4: "Mysore",
+      ans: 3,
+    },
+    {
+      question: "In which year India gained independence?",
+      option1: "2020",
+      option2: "1947",
+      option3: "1957",
+      option4: "1856",
+      ans: 2,
+    },
+  ];
